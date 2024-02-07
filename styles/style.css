@@ -33,9 +33,7 @@ header {
     color: #05386b;
 }
 
-/* .hdr-flx {
-    margin:0px auto;
-    width: 60%;
+span {
     display: flex;
     justify-content: space-between;
-} */
+}

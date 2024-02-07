@@ -1,3 +1,25 @@
+header {
+    font-weight: 600;
+    background-color: #5cdb95;
+    color: #05386b;
+	width: 100%;
+	max-width: 90%;
+	margin:0px auto;
+  	z-index: 999;
+  	border-bottom: 1px solid #000;
+}
+
+.txt-width {
+    width: 100%;
+    max-width: 80%;
+    margin:0px auto;
+}
+
+/* .txt-size-35 {
+    font-weight: 600;
+    font-size: 35px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+} */
 
 .bg-clr {
     background-color: #5cdb95;
@@ -8,5 +30,12 @@
 }
 
 .txt-dark-clr {
-    color: #000;
+    color: #05386b;
 }
+
+/* .hdr-flx {
+    margin:0px auto;
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+} */

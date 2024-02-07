@@ -1,12 +1,13 @@
 header {
-    font-weight: 600;
+    font-size: 24px;
+    font-weight: 700;
     background-color: #5cdb95;
     color: #05386b;
 	width: 100%;
 	max-width: 90%;
 	margin:0px auto;
   	z-index: 999;
-  	border-bottom: 1px solid #000;
+  	border-bottom: 1px solid #05386b;
 }
 
 .txt-width {

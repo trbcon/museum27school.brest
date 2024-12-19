@@ -1,0 +1,35 @@
+.body-background {
+    font-family:  Arial;
+    background-color: rgb(31, 31, 31);
+}
+
+/* header {
+    background-color: rgb(27, 27, 27);
+} */
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 20px;
+}
+
+li {
+    display: inline;
+    margin-inline-end: 20px;
+}
+
+.a-text {
+    color: rgb(166, 166, 166);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(201, 201, 201);
+    text-decoration: none;
+}
+
+
+
+.div-main {
+    color: rgb(150, 150, 150);
+}
